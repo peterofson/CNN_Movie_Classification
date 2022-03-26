@@ -1,1 +1,1 @@
-# CNN_Movie_Classification
+# Multi Label Image Classification to Identify Movie Genres
